@@ -1,2 +1,2 @@
 # test
-My first Git learning repository.
+My first repository for learning Git.
